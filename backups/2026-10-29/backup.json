@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "capture_utc": "20261029T103923Z",
+  "database_type": "sqlite",
+  "encryption": "GnuPG AES256, iterated SHA512 S2K, random 256-bit passphrase stored outside Git",
+  "encrypted_bytes": 3326364125,
+  "encrypted_sha256": "1bd708a4ee447510d8be90c6d1a5105908c3ec9d70d2782b75e02d1af618a5b0",
+  "source_files_unchanged": true,
+  "database_snapshot_method": "SQLite online backup; live WAL/SHM files excluded",
+  "remote_verification": "passed",
+  "parts": [
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-001",
+      "bytes": 268435456,
+      "sha256": "dc6f361ac604d587c963ccd0b718bcc635fa3d7cb7971cf4039f564548047eae"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-002",
+      "bytes": 268435456,
+      "sha256": "10d9e5b87e1a4fc38a2f403fe68b970822e5e7fc7c4dcae93211fb0186ba332d"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-003",
+      "bytes": 268435456,
+      "sha256": "834b6ba109c3794ca20ca27189513d370577fa423cfd3cff43c40e9841c3227d"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-004",
+      "bytes": 268435456,
+      "sha256": "838bb47c0623a64fe19742695ea0536f4625607c5a3b0365b1c1d391437e3a28"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-005",
+      "bytes": 268435456,
+      "sha256": "e5c6772cde696ccafae8171531760c8ee610953d8fce899c43e95fa5fe8f297e"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-006",
+      "bytes": 268435456,
+      "sha256": "79f5b2c8d7e9de1485e56a89e4e3013da21cc1fd3b6e66a407764f3099b88bb9"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-007",
+      "bytes": 268435456,
+      "sha256": "5045d13ea84fa4b9fc56434e58c95286bdd655e62838ee266c4214a36496afb7"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-008",
+      "bytes": 268435456,
+      "sha256": "28fc6b6aa5b224a5da2b718f6ff5c466508234cab4f22879882512e676d40813"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-009",
+      "bytes": 268435456,
+      "sha256": "64ca9a7a90b76b62a54b481e6036569406f7752fc9196922a1169e1708895cf3"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-010",
+      "bytes": 268435456,
+      "sha256": "8b384b73573f11d08e70e0d89e8e40282c5280776e4a831e41dea5336a756894"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-011",
+      "bytes": 268435456,
+      "sha256": "66619e61229f57f27a731e3d42d93ff417f1e56c6019eb9197e768fbbe7dd928"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-012",
+      "bytes": 268435456,
+      "sha256": "8fe27bc2d48dd4fc76fd807224a5adab92f87f686a1b0dfa66da169393b8c0c6"
+    },
+    {
+      "name": "telemetry-live.tar.gz.gpg.part-013",
+      "bytes": 105138653,
+      "sha256": "cf828409eb1068aea21eedc6d343f371b3431c1a05b787db816412b8307a0d2d"
+    }
+  ],
+  "verification": {
+    "location": "source host, isolated temporary SQLite snapshot",
+    "gpg_integrity": "passed",
+    "file_hashes_verified": 1422,
+    "sqlite_integrity_check": "ok",
+    "all_source_table_counts_match": true,
+    "accounts_present": true
+  }
+}

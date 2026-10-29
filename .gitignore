@@ -1,0 +1,13 @@
+# Recovery keys and plaintext live data must stay outside this repository.
+*.passphrase
+*.key
+*.pem
+*.db
+*.sqlite
+*.sqlite3
+*.tar
+*.tar.gz
+.env
+.env.*
+__pycache__/
+*.pyc

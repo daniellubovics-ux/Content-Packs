@@ -24,3 +24,9 @@ Import the downloaded `.lfpack` bundle using the application's content pack impo
 `SHA256SUMS` provides the checksums in standard checksum-file format.
 
 Both bundles were copied byte-for-byte from the latest local releases. ZIP integrity, embedded pack metadata, and declared asset presence were checked before upload.
+
+## Database recovery
+
+[Encrypted Telemetry backups](backups/README.md) preserve database accounts,
+progress, uploaded files and historical snapshots. Recovery requires the
+owner's separately stored passphrase. These backups do not deploy the application.
