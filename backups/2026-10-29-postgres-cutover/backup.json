@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "capture_utc": "2026-10-29T15:54:39.134224+00:00",
+  "database_type": "sqlite",
+  "scope": "Final pre-PostgreSQL authoritative SQLite snapshot and all mirrored files; application writers paused. Complements the earlier full backup.",
+  "encryption": "GnuPG AES256; existing recovery passphrase stored outside Git",
+  "encrypted_bytes": 402986605,
+  "encrypted_sha256": "f32d877a25810458ebd9f8f866ded9740ed29bc3ad61b82ab91631e10494aa5f",
+  "source_files_unchanged": true,
+  "database_snapshot_method": "SQLite online backup after application suspension; full integrity and foreign-key checks passed",
+  "decryption_verification": "Passed: decrypted tar SHA256 equals source tar SHA256",
+  "parts": [
+    {
+      "name": "telemetry-cutover.tar.gpg.part-001",
+      "bytes": 268435456,
+      "sha256": "d033847e27acdf66ed45d357e480a14c3d5063d85683cd535a1c8e1133aed736"
+    },
+    {
+      "name": "telemetry-cutover.tar.gpg.part-002",
+      "bytes": 134551149,
+      "sha256": "13bf36219813a207b6734c8d418d397b7eea3a881f8b6fff9f8dc72cbbc70929"
+    }
+  ]
+}
