@@ -1,0 +1,22 @@
+{
+  "packs": [
+    {
+      "subject": "EM",
+      "id": "telemetry-mechanics-i-ws2526",
+      "title": "Mechanics I — Statics and elastic bars",
+      "version": "1-9-12-distinct-transfer-problems",
+      "file": "EM/telemetry-mechanics-i-1-9-12-distinct-transfer-problems.lfpack",
+      "bytes": 142453633,
+      "sha256": "2879e15242305fcb89da0bfb8863eba1dc1b0acf73326749a47c726001ba28db"
+    },
+    {
+      "subject": "Maths",
+      "id": "mathe-bayern-nt1-privat",
+      "title": "Mathematik verstehen – Bayern Nichttechnik, Band 1",
+      "version": "1-9-3",
+      "file": "Maths/mathematik-bayern-nt1-privat-v1-9-3.lfpack",
+      "bytes": 870954,
+      "sha256": "7fea3a7ecfdc4b125db135bd3b176c0c0500bd3794c4f113f667ec2b1b3b10bb"
+    }
+  ]
+}
